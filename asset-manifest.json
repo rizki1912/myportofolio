@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/myportofolio.github.io/static/css/main.f0ea0d91.css",
-    "main.js": "/myportofolio.github.io/static/js/main.d30b4364.js",
-    "static/media/Anis Laundry.png": "/myportofolio.github.io/static/media/Anis Laundry.a1baa374f2cd0553c450.png",
-    "static/media/KiCoffe.png": "/myportofolio.github.io/static/media/KiCoffe.43d6a02c784ab2b765fc.png",
-    "static/media/Rizki Pratama CV English.pdf": "/myportofolio.github.io/static/media/Rizki Pratama CV English.48828a62595a7d7d93dd.pdf",
-    "static/media/boy.png": "/myportofolio.github.io/static/media/boy.d932e7b84620bfd06247.png",
-    "static/media/figma.png": "/myportofolio.github.io/static/media/figma.467c81d3ac52096ce001.png",
-    "static/media/Personal login.png": "/myportofolio.github.io/static/media/Personal login.2115f65ad95e25ea72c8.png",
-    "static/media/glassesimoji.png": "/myportofolio.github.io/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/thumbup.png": "/myportofolio.github.io/static/media/thumbup.e06790ba656f0397cbe5.png",
-    "static/media/humble.png": "/myportofolio.github.io/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/myportofolio.github.io/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/wave.png": "/myportofolio.github.io/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/crown.png": "/myportofolio.github.io/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/Vector2.png": "/myportofolio.github.io/static/media/Vector2.28db5bfd58081dd1df1b.png",
-    "static/media/glasses.png": "/myportofolio.github.io/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "index.html": "/myportofolio.github.io/index.html",
-    "main.f0ea0d91.css.map": "/myportofolio.github.io/static/css/main.f0ea0d91.css.map",
-    "main.d30b4364.js.map": "/myportofolio.github.io/static/js/main.d30b4364.js.map"
+    "main.css": "/myportofolio/static/css/main.f0ea0d91.css",
+    "main.js": "/myportofolio/static/js/main.6eadab75.js",
+    "static/media/Anis Laundry.png": "/myportofolio/static/media/Anis Laundry.a1baa374f2cd0553c450.png",
+    "static/media/KiCoffe.png": "/myportofolio/static/media/KiCoffe.43d6a02c784ab2b765fc.png",
+    "static/media/Rizki Pratama CV English.pdf": "/myportofolio/static/media/Rizki Pratama CV English.48828a62595a7d7d93dd.pdf",
+    "static/media/boy.png": "/myportofolio/static/media/boy.d932e7b84620bfd06247.png",
+    "static/media/figma.png": "/myportofolio/static/media/figma.467c81d3ac52096ce001.png",
+    "static/media/Personal login.png": "/myportofolio/static/media/Personal login.2115f65ad95e25ea72c8.png",
+    "static/media/glassesimoji.png": "/myportofolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/myportofolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/myportofolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/myportofolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/myportofolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/myportofolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/myportofolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/myportofolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/myportofolio/index.html",
+    "main.f0ea0d91.css.map": "/myportofolio/static/css/main.f0ea0d91.css.map",
+    "main.6eadab75.js.map": "/myportofolio/static/js/main.6eadab75.js.map"
   },
   "entrypoints": [
     "static/css/main.f0ea0d91.css",
-    "static/js/main.d30b4364.js"
+    "static/js/main.6eadab75.js"
   ]
 }
